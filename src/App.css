@@ -1,0 +1,73 @@
+.icon{
+  display:block;
+  font-size: 50px;
+  color: white;
+}
+.sidetitle{
+  font-size: small;
+  color:white;
+}
+.row{
+  background-color: rgb(36, 0, 135);
+  text-align: center;
+  width:150px;
+  position:fixed;
+}
+.nav{
+  background-color:rgb(99, 99, 189);
+  width:100%;
+  font-size: xx-large;
+  padding:10px 50px 10px 180px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  color:white;
+}
+.side:hover{
+     height:130px;
+     width:300px;
+     background-color: rgb(42, 48, 173);
+}
+#content-section{
+  position: relative;
+  left: 15%;
+  top:10px;
+}
+
+.cards{
+  display: flex;
+  gap: 50px;
+}
+#red{
+  background-color: red;
+}
+.c{
+  display: flex;
+  /* flex-wrap: wrap; */
+  height: auto;
+  width: auto;
+  color: white;
+  border-radius: 8px;
+  font-size: 20px;
+  
+ 
+}
+.num{
+  font-size: 30px;
+  padding: 10px 0px 30px 120px;
+}
+.num-student{
+  padding: 10px;
+}
+#logo1{
+  font-size: 80px;
+}
+
+#violet{
+  background-color:blueviolet
+}
+#green{
+  background-color: rgba(0, 128, 0, 0.603);
+}
+h6{
+  text-align: center;
+}

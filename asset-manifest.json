@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.b3c8e795.css",
-    "main.js": "/static/js/main.44a6b425.js",
-    "index.html": "/index.html",
-    "main.b3c8e795.css.map": "/static/css/main.b3c8e795.css.map",
-    "main.44a6b425.js.map": "/static/js/main.44a6b425.js.map"
+    "main.css": "/StudentEduTracking-using-Reactjs/static/css/main.b3c8e795.css",
+    "main.js": "/StudentEduTracking-using-Reactjs/static/js/main.44a6b425.js",
+    "index.html": "/StudentEduTracking-using-Reactjs/index.html",
+    "main.b3c8e795.css.map": "/StudentEduTracking-using-Reactjs/static/css/main.b3c8e795.css.map",
+    "main.44a6b425.js.map": "/StudentEduTracking-using-Reactjs/static/js/main.44a6b425.js.map"
   },
   "entrypoints": [
     "static/css/main.b3c8e795.css",
